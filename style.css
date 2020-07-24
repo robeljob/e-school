@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+.navigation{
+    background-color:  #F0FFF0;
+    margin-bottom: 100px;
+}
+.span{
+    color: orange;
+}
+.nav-img{
+    width: 50%;
+}
+.container{
+    margin-bottom: 100px;
+}
+footer{
+    background-image: black;
+    
+}
+.fotpad{
+    padding: 10px 20px;
+}
